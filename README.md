@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Irfaan 👋
 
-<!--
-**irfx01/irfx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Machine Learning student from Tamil Nadu, India.
+I build products that solve real human problems.
 
-Here are some ideas to get you started:
+## 🔬 Projects
+| Project | What it does |
+|---------|-------------|
+| [TruthPill](link) | Medical misinformation classifier — flags fake health claims |
+| [MindCheck](link) | Mental health signal detector — nudge toward support, no diagnosis |
+| [JobReady](link) | Resume gap analyser — plain-English skill gap report |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+Python · scikit-learn · pandas · NLP · Machine Learning
+
+## 📬 Reach me
+irfaanirfx@gmail.com
